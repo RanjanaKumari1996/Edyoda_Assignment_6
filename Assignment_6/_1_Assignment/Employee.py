@@ -10,5 +10,5 @@ print (data)
 
 #list of employee objects
 
-Listdata=list(data)
-print(Listdata)
+for i in data['Emp_details']:
+    print(data)
